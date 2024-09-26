@@ -1,0 +1,6 @@
+@Lab_Blackjack_HostAddress = http://localhost:5133
+
+GET {{Lab_Blackjack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
