@@ -2,6 +2,7 @@
 {
     public class GameStatus
     {
+        public int id {  get; set; }
         public string DeckId { get; set; }
         public List<Card> DealerCards { get; set; }
         public List<Card> PlayerCards { get; set; }

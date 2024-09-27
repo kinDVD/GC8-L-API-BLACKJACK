@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "McUPvpsIB+M=",
+  "dgSpecHash": "P7eSMeSnB/8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Lab-Blackjack.csproj",
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Lab-Blackjack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Lab-Blackjack.csproj": {}
+    "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Lab-Blackjack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Lab-Blackjack.csproj": {
+    "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Lab-Blackjack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Lab-Blackjack.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Lab-Blackjack.csproj",
         "projectName": "Lab-Blackjack",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Lab-Blackjack.csproj",
+        "projectPath": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Lab-Blackjack.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\",
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-blackjack\\lab-blackjack\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-api-blackjack\\gc8-l-api-blackjack\\lab-blackjack\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-blackjack\\lab-blackjack\\services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-api-blackjack\\gc8-l-api-blackjack\\lab-blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-blackjack\\lab-blackjack\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-api-blackjack\\gc8-l-api-blackjack\\lab-blackjack\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-blackjack\\lab-blackjack\\models\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-api-blackjack\\gc8-l-api-blackjack\\lab-blackjack\\services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|c:\\users\\david\\source\\repos\\lab-api-blackjack\\gc8-l-api-blackjack\\lab-blackjack\\models\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A6DB74E-3C17-4504-B7A1-2B95B292DEBF}|Lab-Blackjack\\Lab-Blackjack.csproj|solutionrelative:lab-blackjack\\models\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-Blackjack\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Program.cs",
+              "RelativeToolTip": "Lab-Blackjack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:07:02.332Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DeckController.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Controllers\\DeckController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Controllers\\DeckController.cs",
               "RelativeDocumentMoniker": "Lab-Blackjack\\Controllers\\DeckController.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Controllers\\DeckController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Controllers\\DeckController.cs",
               "RelativeToolTip": "Lab-Blackjack\\Controllers\\DeckController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswIwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T17:59:25.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DeckService.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Services\\DeckService.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Services\\DeckService.cs",
               "RelativeDocumentMoniker": "Lab-Blackjack\\Services\\DeckService.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Services\\DeckService.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Services\\DeckService.cs",
               "RelativeToolTip": "Lab-Blackjack\\Services\\DeckService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T17:54:10.56Z",
               "EditorCaption": ""
@@ -58,23 +75,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DeckModel.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Models\\DeckModel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Models\\DeckModel.cs",
               "RelativeDocumentMoniker": "Lab-Blackjack\\Models\\DeckModel.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Models\\DeckModel.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Models\\DeckModel.cs",
               "RelativeToolTip": "Lab-Blackjack\\Models\\DeckModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T17:50:04.132Z"
+              "WhenOpened": "2024-09-25T17:50:04.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameStatus.cs",
-              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Models\\GameStatus.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Models\\GameStatus.cs",
               "RelativeDocumentMoniker": "Lab-Blackjack\\Models\\GameStatus.cs",
-              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-Blackjack\\Lab-Blackjack\\Models\\GameStatus.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Lab-API-Blackjack\\GC8-L-API-BLACKJACK\\Lab-Blackjack\\Models\\GameStatus.cs",
               "RelativeToolTip": "Lab-Blackjack\\Models\\GameStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T17:41:48.983Z"
             }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-Blackjack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b12a400488d371237eb198ab018d4aba3bc799")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-Blackjack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-Blackjack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
